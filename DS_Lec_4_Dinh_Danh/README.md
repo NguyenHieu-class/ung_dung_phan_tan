@@ -37,10 +37,11 @@ Chương trình này triển khai:
 
 ```plaintext
 .
-├── chord_dht.py        # Code chính
-├── README.md           # Tài liệu
+├── chord.py                    # Code chính
+├── README.md                   # README.md
+├── DS_Lec 4 - Dinh danh.pdf    # Tài liệu
 └── img/
-    └── image.png       # Minh họa kết quả
+    └── image.png               # Minh họa kết quả
 ```
 
 ---
@@ -117,13 +118,13 @@ Key location for key =  44 is at node:  46
 
 1. Clone repository về máy:  
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   https://github.com/NguyenHieu-class/ung_dung_phan_tan.git
+   cd DS_Lec_4_Dinh_Danh
    ```
 
 2. Chạy chương trình:  
    ```bash
-   python chord_dht.py
+   python chord.py
    ```
 
 ---
@@ -134,9 +135,4 @@ Key location for key =  44 is at node:  46
 
 ---
 
-## 📄 Giấy phép
-
-Dự án này được cấp phép dưới [MIT License](LICENSE).
-
----
 
