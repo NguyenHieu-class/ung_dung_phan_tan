@@ -9,14 +9,9 @@ Dưới đây là bảng thống kê các folder và file trong dự án:
 
 | Tên Folder/File      | Mô tả                                                   |
 |----------------------|---------------------------------------------------------|
-| `bai1`               | Folder chứa bài tập 1, bao gồm mã nguồn và tài liệu liên quan. |
-| `bai1/main.py`       | File Python thực thi chương trình cho bài tập 1.       |
-| `bai2`               | Folder chứa bài tập 2, bao gồm mã nguồn và tài liệu liên quan. |
-| `bai2/server.py`     | File Python thực thi server cho bài tập 2.              |
-| `docs`               | Folder chứa tài liệu hướng dẫn và giải thích các bài tập. |
-| `docs/README.md`     | Tài liệu hướng dẫn tổng quan về ứng dụng phân tán.      |
-| `lib`                | Thư viện chứa các module dùng chung cho toàn bộ dự án.  |
-| `lib/utils.py`       | Các hàm tiện ích hỗ trợ cho việc phát triển ứng dụng.   |
+| `DS_Lec 3_Trao_doi_thong_tin`| Folder chứa bài tập buổi 3, bao gồm mã nguồn và tài liệu liên quan. |
+| `DS_Lec_4_Dinh_Danh`| Folder chứa bài tập buổi 4, bao gồm mã nguồn và tài liệu liên quan. |    
+
 
 ## Hướng dẫn Cài đặt
 
@@ -42,4 +37,4 @@ Dưới đây là bảng thống kê các folder và file trong dự án:
 
 ## Liên hệ
 
-Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: example@example.com.
+Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: 22010103@st.phenikaa-uni.edu.vn.
