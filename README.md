@@ -42,4 +42,4 @@ Dưới đây là bảng thống kê các folder và file trong dự án:
 
 ## Liên hệ
 
-Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: example@example.com.
+Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: 22010103@st.phenikaa-uni.edu.vn.
