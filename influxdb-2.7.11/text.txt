@@ -1,0 +1,6 @@
+
+
+<measurement>[,<tag_key>=<tag_value>...] <field_key>=<field_value>[,<field_key>=<field_value>...] [<timestamp>]
+    |                            |                               |                                         |
+sensor_data    ,     location=Hanoi,sensor_id=123         temperature=30.5                       1625097600000000000
+
